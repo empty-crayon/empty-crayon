@@ -11,7 +11,7 @@ I'm an ML Engineer focused on <u>LLM inference performance, systems level optimi
 
 - **[nano-serve](https://github.com/empty-crayon/nano-serve)** — OpenAI-compatible inference gateway with SSE streaming, per-request TTFT/TPOT/inter-chunk timing, and Prometheus & Grafana for observability.
 
-    > Includes a [deep-dive experiment](https://github.com/empty-crayon/nano-serve/blob/main/deep-dive.md) running ablations on prefix caching and speculative deccoding (MPT) for running agentic workloads; With Qwen3.5-4B on A10 GPU, achieving 56% TTFT reduction and 58% throughput improvement.
+    > Includes a [deep-dive experiment](https://github.com/empty-crayon/nano-serve/blob/main/deep-dive.md) running ablations on prefix caching and speculative deccoding (MTP) for running agentic workloads; With Qwen3.5-4B on A10 GPU, achieving 56% P95 TTFT reduction and 58% P50 throughput improvement.
 - **[how-fast:](https://github.com/empty-crayon/how-fast)** — Async LLM benchmarking CLI. Closed-loop and open-loop modes, SLO pass/fail per workload, GPU telemetry sidecar.
 
 
