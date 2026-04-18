@@ -22,6 +22,7 @@ I'm an ML Engineer focused on <u>LLM inference performance, systems level optimi
 
 | Topic | Link |
 |-------|------|
+| Speculative Decoding: Making LLMs Faster | [Read](https://gradientupdate.substack.com/p/speculative-decoding-making-llms) |
 | GQA from First Principles | [Read](https://gradientupdate.substack.com/p/implementing-the-modern-llm-stack-c4d) |
 | GPU Mental Models for Beginners | [Read](https://gradientupdate.substack.com/p/gpu-mental-models-for-beginners) |
 | Constrained Decoding: How LLMs Generate Valid JSON | [Read](https://gradientupdate.substack.com/p/constrained-decoding-how-llms-generate) |
